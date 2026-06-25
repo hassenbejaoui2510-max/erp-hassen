@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "active": true
+    },
+    {
+      "username": "agent1",
+      "active": true
+    },
+    {
+      "username": "agent2",
+      "active": true
+    }
+  ],
+  "forceLogout": []
+}
